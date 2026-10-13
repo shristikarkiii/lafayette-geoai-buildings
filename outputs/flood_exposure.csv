@@ -1,0 +1,11 @@
+dataset,zone,buildings,share
+AI (NAIP 2023),A (1% annual chance),1667,0.0381
+AI (NAIP 2023),AE (1% annual chance),3938,0.09
+AI (NAIP 2023),AH (1% annual chance),103,0.0024
+AI (NAIP 2023),Minimal hazard / unmapped,36252,0.8287
+AI (NAIP 2023),X shaded (0.2% annual chance),1785,0.0408
+USA Structures,A (1% annual chance),1732,0.0359
+USA Structures,AE (1% annual chance),4469,0.0927
+USA Structures,AH (1% annual chance),107,0.0022
+USA Structures,Minimal hazard / unmapped,39949,0.8286
+USA Structures,X shaded (0.2% annual chance),1958,0.0406

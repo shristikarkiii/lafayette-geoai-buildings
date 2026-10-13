@@ -1,0 +1,7 @@
+data/
+*.pyt.xml
+__pycache__/
+outputs/log_*.txt
+outputs/test1km_*
+outputs/gallery_ids.json
+.backups/

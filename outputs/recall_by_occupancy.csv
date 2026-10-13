@@ -1,0 +1,10 @@
+group,n_reference,found,recall
+Agriculture,68,19,0.2794
+Assembly,5,4,0.8
+Commercial,3238,1868,0.5769
+Education,644,297,0.4612
+Government,70,31,0.4429
+Industrial,1991,1214,0.6097
+Residential,39509,22301,0.5645
+Unclassified,2566,1374,0.5355
+Utility and Misc,124,45,0.3629
